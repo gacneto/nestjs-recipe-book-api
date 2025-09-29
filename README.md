@@ -50,12 +50,12 @@ Siga os passos abaixo para configurar e executar o projeto em seu ambiente local
 
 1.  **Clone o repositório:**
     ```bash
-    git clone https://github.com/gacneto/recipe-book-api.git
+    git clone https://github.com/gacneto/nestjs-recipe-book-api.git
     ```
 
 2.  **Navegue até a pasta do projeto:**
     ```bash
-    cd recipe-book-api
+    cd nestjs-recipe-book-api
     ```
 
 3.  **Crie e configure o arquivo de variáveis de ambiente:**
